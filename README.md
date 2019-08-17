@@ -1,2 +1,2 @@
 # LearningNotes
-Individual Learning Notes
+Individual Learning Notes. Created By Hongjie Gao.
